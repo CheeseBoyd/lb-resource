@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "meetups": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb://user_cheeseboyd:44E6Jw90thbA@ds033196.mlab.com:33196/loopback-resource",
+    "database": "",
+    "password": "",
+    "name": "meetups",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
